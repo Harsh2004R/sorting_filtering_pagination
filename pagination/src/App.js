@@ -1,11 +1,9 @@
-import VideoComponent from './Components/VideoComponent';
+import PGN from './Components/Page'
 import './App.css';
-import {Box} from "@chakra-ui/react"
 function App() {
   return (
     <>
-    <VideoComponent/>
-    
+    <PGN/>
     </>
   );
 }
